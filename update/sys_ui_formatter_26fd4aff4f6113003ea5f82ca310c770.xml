@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_formatter">
+    <sys_ui_formatter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <angular_module/>
+        <formatter>process_flow.xml</formatter>
+        <name>Process Flow</name>
+        <sys_class_name>sys_ui_formatter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-25 13:56:43</sys_created_on>
+        <sys_id>26fd4aff4f6113003ea5f82ca310c770</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Process Flow</sys_name>
+        <sys_package display_value="Client IT Change Management" source="x_217099_client_it">16948a774f6113003ea5f82ca310c734</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Client IT Change Management">16948a774f6113003ea5f82ca310c734</sys_scope>
+        <sys_update_name>sys_ui_formatter_26fd4aff4f6113003ea5f82ca310c770</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-25 13:56:43</sys_updated_on>
+        <table>x_217099_client_it_client_it_change</table>
+        <type>formatter</type>
+    </sys_ui_formatter>
+</record_update>

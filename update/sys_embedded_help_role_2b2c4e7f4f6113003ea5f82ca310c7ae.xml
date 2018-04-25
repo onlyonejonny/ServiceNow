@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_217099_client_it.client_it_change_user" name="x_217099_client_it.client_it_change_user">6f2cc63f4f6113003ea5f82ca310c7f4</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-25 13:48:51</sys_created_on>
+        <sys_id>2b2c4e7f4f6113003ea5f82ca310c7ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6f2cc63f4f6113003ea5f82ca310c7f4</sys_name>
+        <sys_package display_value="Client IT Change Management" source="x_217099_client_it">16948a774f6113003ea5f82ca310c734</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Client IT Change Management">16948a774f6113003ea5f82ca310c734</sys_scope>
+        <sys_update_name>sys_embedded_help_role_2b2c4e7f4f6113003ea5f82ca310c7ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-25 13:48:51</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

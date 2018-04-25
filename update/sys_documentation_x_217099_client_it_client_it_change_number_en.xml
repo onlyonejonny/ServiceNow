@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="number" label="Number" language="en" table="x_217099_client_it_client_it_change">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <help/>
+            <hint/>
+            <label>Number</label>
+            <language>en</language>
+            <name>x_217099_client_it_client_it_change</name>
+            <plural>Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-25 13:48:53</sys_created_on>
+            <sys_id>b72c4e7f4f6113003ea5f82ca310c7f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Number</sys_name>
+            <sys_package display_value="Client IT Change Management" source="x_217099_client_it">16948a774f6113003ea5f82ca310c734</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Client IT Change Management">16948a774f6113003ea5f82ca310c734</sys_scope>
+            <sys_update_name>sys_documentation_x_217099_client_it_client_it_change_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-25 13:48:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

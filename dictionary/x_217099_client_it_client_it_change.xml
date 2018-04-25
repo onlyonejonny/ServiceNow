@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Client IT Change" max_length="40" name="x_217099_client_it_client_it_change" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="3" default="-5" label="State" max_length="40" name="state" type="integer">
+            <choice>
+                <element label="Draft" sequence="0" value="-5"/>
+                <element label="Assess" sequence="1" value="-4"/>
+                <element label="Authorise" sequence="2" value="-3"/>
+                <element label="Implement" sequence="3" value="-1"/>
+                <element label="Review" sequence="4" value="0"/>
+                <element label="Closed" sequence="5" value="3"/>
+                <element label="Cancelled" sequence="6" value="4"/>
+            </choice>
+        </element>
+    </element>
+</database>

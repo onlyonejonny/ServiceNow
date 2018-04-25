@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Client IT Change</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_217099_client_it_client_it_change</name>
+        <number_ref display_value="CLICHG">7b2c4e7f4f6113003ea5f82ca310c7ee</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-25 13:48:51</sys_created_on>
+        <sys_id>e9fbca7f4f6113003ea5f82ca310c7c8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Client IT Change</sys_name>
+        <sys_package display_value="Client IT Change Management" source="x_217099_client_it">16948a774f6113003ea5f82ca310c734</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Client IT Change Management">16948a774f6113003ea5f82ca310c734</sys_scope>
+        <sys_update_name>sys_db_object_e9fbca7f4f6113003ea5f82ca310c7c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-25 13:49:08</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role display_value="x_217099_client_it.client_it_change_user" name="x_217099_client_it.client_it_change_user">6f2cc63f4f6113003ea5f82ca310c7f4</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
